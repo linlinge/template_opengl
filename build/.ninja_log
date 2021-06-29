@@ -1,0 +1,17 @@
+# ninja log v5
+5	344	1624887035	glib/CMakeFiles/GLIB.dir/Statistics.cpp.o	7f44bd4442ef769e
+209	2022	1624928464	template-cmake	f0f7b9f5479fa48b
+4	14	1624887034	CMakeFiles/template-cmake.dir/global.cpp.o	13e7033faaac7543
+3	79	1624930748	CMakeFiles/template-cmake.dir/mouseManager.cpp.o	554b48c784f8a5c2
+4	14	1624887034	CMakeFiles/template-cmake.dir/trackball.cpp.o	bd2c0a34b38f99b4
+5	2337	1624887037	glib/CMakeFiles/GLIB.dir/Color.cpp.o	417faec04567a395
+5	9798	1624887044	glib/CMakeFiles/GLIB.dir/PCLExtend.cpp.o	c4c99d963d87191
+5	499	1624887035	glib/CMakeFiles/GLIB.dir/VectorExtend.cpp.o	ecde8d4dcceabe1a
+4	209	1624928462	CMakeFiles/template-cmake.dir/main.cpp.o	ea7049d5e3af0c46
+4	2395	1624887037	glib/CMakeFiles/GLIB.dir/BasicGeometry.cpp.o	3b649a110739a5f1
+4	308	1624887035	glib/CMakeFiles/GLIB.dir/FileExtend.cpp.o	de24b53824c205db
+4	58	1624887075	glib/libGLIB.a	336c7fdb62544367
+5	330	1624887035	glib/CMakeFiles/GLIB.dir/StringExtend.cpp.o	44dec10c8dda4e33
+4	74	1624930804	CMakeFiles/template-cmake.dir/mouseManager.cpp.o	554b48c784f8a5c2
+4	81	1624931357	CMakeFiles/template-cmake.dir/mouseManager.cpp.o	554b48c784f8a5c2
+3	207	1624931443	CMakeFiles/template-cmake.dir/main.cpp.o	ea7049d5e3af0c46
